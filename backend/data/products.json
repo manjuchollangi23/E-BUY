@@ -1,0 +1,3220 @@
+[
+  {
+    "_id": "p_rdnbt3joh",
+    "name": "Sony WH-1000XM4 Noise Canceling Headphones",
+    "description": "Industry-leading noise-canceling wireless over-ear headphones with Alexa voice control. Features dual noise sensor technology, up to 30-hour battery life, and touch control sensors.",
+    "price": 27840,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=600",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=600"
+    ],
+    "category": "Electronics",
+    "brand": "Sony",
+    "countInStock": 15,
+    "discount": 15,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_mgv0ljbas",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_frag7l6sb",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_6p0fn776d",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_nd0kbxr04",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.904Z",
+    "updatedAt": "2026-05-30T09:02:35.904Z"
+  },
+  {
+    "_id": "p_p5zfcsz56",
+    "name": "MacBook Pro 16-inch M3 Max",
+    "description": "The ultimate laptop for creators and developers. Features the Apple M3 Max chip with 16-core CPU, 40-core GPU, 48GB unified memory, and 1TB SSD. Liquid Retina XDR display.",
+    "price": 279920,
+    "images": [
+      "https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=600",
+      "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?q=80&w=600",
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=600"
+    ],
+    "category": "Electronics",
+    "brand": "Apple",
+    "countInStock": 8,
+    "discount": 10,
+    "deliveryTime": "In 2 days",
+    "reviews": [
+      {
+        "_id": "r_4n5bs1zha",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_4ktjh4697",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_37t6whfy8",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_wm8kkww3l",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.904Z",
+    "updatedAt": "2026-05-30T09:02:35.904Z"
+  },
+  {
+    "_id": "p_hvp8b9nhm",
+    "name": "Mechanical RGB Gaming Keyboard",
+    "description": "Wired gaming keyboard with tactile blue switches, customizable RGB chroma backlighting, and solid aluminum faceplate. Ideal for high-speed professional gaming.",
+    "price": 6399,
+    "images": [
+      "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae",
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+      "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6"
+    ],
+    "category": "Electronics",
+    "brand": "Logitech",
+    "countInStock": 25,
+    "discount": 20,
+    "deliveryTime": "3-5 business days",
+    "reviews": [
+      {
+        "_id": "r_rto7vx4m4",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_bkkgxtg8o",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_3cxtvqa43",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_kwfy8b11z",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.904Z",
+    "updatedAt": "2026-05-30T09:02:35.904Z"
+  },
+  {
+    "_id": "p_prfb6154i",
+    "name": "Smart Watch Fitness Tracker",
+    "description": "Advanced smartwatch with 24/7 heart rate tracking, blood oxygen level monitor, sleep analysis, and built-in GPS. Features 1.4-inch AMOLED display and 10-day battery life.",
+    "price": 15920,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1",
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9"
+    ],
+    "category": "Electronics",
+    "brand": "Samsung",
+    "countInStock": 18,
+    "discount": 5,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_4fez0ic12",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_gvqrrwmgz",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_p01pzr80r",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_lh3lbpwq3",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.904Z",
+    "updatedAt": "2026-05-30T09:02:35.904Z"
+  },
+  {
+    "_id": "p_9oxyphgx8",
+    "name": "Anker Power Bank 20000mAh",
+    "description": "Ultra-high capacity portable charger with PowerIQ technology. Delivers fast charging speeds for iPhones, iPads, and Android devices. Compact and travel-safe design.",
+    "price": 3999,
+    "images": [
+      "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?q=80&w=600",
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?q=80&w=600"
+    ],
+    "category": "Electronics",
+    "brand": "Anker",
+    "countInStock": 40,
+    "discount": 10,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_i9s4mtl5u",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_ed70gm7bf",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.904Z"
+      },
+      {
+        "_id": "r_297bho1xl",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_ent0j6dqs",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_yvadptgub",
+    "name": "Logitech MX Master 3S Wireless Mouse",
+    "description": "Performance wireless mouse with 8K DPI tracking, ultra-quiet clicks, and electromagnetic scrolling. Ergonomic design, compatible with macOS, Windows, and Linux.",
+    "price": 7920,
+    "images": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7",
+      "https://images.unsplash.com/photo-1625766763788-95dcce9bf5ac"
+    ],
+    "category": "Electronics",
+    "brand": "Logitech",
+    "countInStock": 30,
+    "discount": 0,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_tiyacfzlm",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_7cpe1x1hw",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_6l0beg8tf",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_yzuxqyp1z",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_nwh1t7p8k",
+    "name": "Apple iPhone 15 Pro Max",
+    "description": "Forged in titanium, featuring the groundbreaking A17 Pro chip, a customizable Action button, and the most powerful iPhone camera system ever with 5x optical zoom.",
+    "price": 95920,
+    "images": [
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab",
+      "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5",
+      "https://images.unsplash.com/photo-1573148195900-7845dcb9b127"
+    ],
+    "category": "Mobiles",
+    "brand": "Apple",
+    "countInStock": 12,
+    "discount": 5,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_mj3fqkkuj",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_v1qcj1o9u",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_lcwlbbj3y",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_3d2pngnop",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_hbu6n6nf4",
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Welcome to the era of mobile AI. With Galaxy S24 Ultra, you can unleash whole new levels of creativity, productivity and possibility, featuring a 200MP camera and built-in S Pen.",
+    "price": 103999,
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf",
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505"
+    ],
+    "category": "Mobiles",
+    "brand": "Samsung",
+    "countInStock": 14,
+    "discount": 8,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_jz8krnxt2",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_txc7yu3h4",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_zfeltm7yd",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_azy28p4sn",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_q2vwprfx0",
+    "name": "Google Pixel 8 Pro",
+    "description": "The all-pro phone engineered by Google. Features the custom Google Tensor G3 chip, advanced triple-camera system, AI photo editing, and a stunning 6.7-inch Super Actua display.",
+    "price": 79920,
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97",
+      "https://images.unsplash.com/photo-1605236453806-6ff36851218e"
+    ],
+    "category": "Mobiles",
+    "brand": "Google",
+    "countInStock": 10,
+    "discount": 12,
+    "deliveryTime": "In 2 days",
+    "reviews": [
+      {
+        "_id": "r_mc3ob9syr",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_in0yj9367",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_xknxqbkr9",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_t7ryxwp0b",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_y36u6umxw",
+    "name": "OnePlus 12 5G",
+    "description": "Powered by Snapdragon 8 Gen 3, OnePlus 12 delivers flagship-grade power with up to 16GB LPDDR5X RAM, 5400mAh battery, 100W SUPERVOOC charging, and 4th Gen Hasselblad Camera.",
+    "price": 63920,
+    "images": [
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    ],
+    "category": "Mobiles",
+    "brand": "OnePlus",
+    "countInStock": 15,
+    "discount": 10,
+    "deliveryTime": "3-5 business days",
+    "reviews": [
+      {
+        "_id": "r_4kd64ja19",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_xtwsc50pp",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_wrcwqui0l",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_rxgeh6hse",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_ag1cdyg86",
+    "name": "Classic Running Sneakers",
+    "description": "Lightweight, breathable running shoes with cloud-soft foam cushioning and high-grip rubber outsole. Perfect for daily workouts and casual wear.",
+    "price": 9600,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5",
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a"
+    ],
+    "category": "Fashion",
+    "brand": "Nike",
+    "countInStock": 22,
+    "discount": 25,
+    "deliveryTime": "In 2 days",
+    "reviews": [
+      {
+        "_id": "r_jngb94wfo",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_0k7i18td2",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_ji9dpsn1p",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_d4djuns0g",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_5gn51cvzb",
+    "name": "Premium Cotton Hoodie",
+    "description": "Cozy and stylish overhead hoodie made from 100% organic heavy cotton. Features double-lined hood, ribbed cuffs, and pouch pocket. Standard unisex fit.",
+    "price": 4400,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633"
+    ],
+    "category": "Fashion",
+    "brand": "Champion",
+    "countInStock": 18,
+    "discount": 15,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_sqbegm03d",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_h6lmtnel2",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_1k4zlv44p",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_to19wltor",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_52qsolgy1",
+    "name": "Minimalist Travel Backpack",
+    "description": "Durable, water-resistant canvas laptop backpack with multiple security pockets and integrated USB charging port. Comfort padded straps fit up to 15.6-inch laptops.",
+    "price": 5200,
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3",
+      "https://images.unsplash.com/photo-1577733966973-d680bffd2e80"
+    ],
+    "category": "Fashion",
+    "brand": "Herschel",
+    "countInStock": 16,
+    "discount": 0,
+    "deliveryTime": "3-5 business days",
+    "reviews": [
+      {
+        "_id": "r_idzyyevrr",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_a74yr4c34",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_cwmdtok0x",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_p2j0krp6h",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_vxdj19c4g",
+    "name": "Classic Clubmaster Sunglasses",
+    "description": "Retro-inspired frame with acetate rims, metal bridges, and non-polarized UV400 protective lenses. Includes protective leather case and cleaning cloth.",
+    "price": 12320,
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f"
+    ],
+    "category": "Fashion",
+    "brand": "Ray-Ban",
+    "countInStock": 12,
+    "discount": 10,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_fmlsrrqme",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_ba9fv6k12",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_9w4gg8iyl",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_esbflpp5z",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_7ik2xrkon",
+    "name": "Waterproof Sports Chronograph Watch",
+    "description": "Men’s stainless steel analog watch with scratch-resistant mineral glass, luminous hands, calendar window, and stopwatch sub-dials. Water-resistant up to 50 meters.",
+    "price": 14800,
+    "images": [
+      "https://images.unsplash.com/photo-1524592094714-0f0654e20314",
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa"
+    ],
+    "category": "Fashion",
+    "brand": "Seiko",
+    "countInStock": 10,
+    "discount": 20,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_a8mz01hef",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_tg4mwzesk",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_yx2bd2n38",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_ji6s4wvq0",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_jpmhfz3z0",
+    "name": "Organic Crewneck T-Shirt 3-Pack",
+    "description": "Essential everyday cotton t-shirts in classic fit. Breathable fabric that retains shape and softness wash after wash. Includes black, white, and heather grey.",
+    "price": 2800,
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a"
+    ],
+    "category": "Fashion",
+    "brand": "Uniqlo",
+    "countInStock": 50,
+    "discount": 5,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_77fz59ujc",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_81b8qu8q0",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_x0yfwnz0m",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_pi3mw79cj",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_b19dzhj3s",
+    "name": "Ergonomic Mesh Office Chair",
+    "description": "High-back desk chair featuring adaptive lumbar support, 3D armrests, dynamic tilting lock mechanism, and heavy-duty nylon wheelbase. Relieves spine pressure for all-day focus.",
+    "price": 19999,
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+      "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27",
+      "https://images.unsplash.com/photo-1592078615290-033ee584e267"
+    ],
+    "category": "Home Essentials",
+    "brand": "Herman Miller",
+    "countInStock": 10,
+    "discount": 30,
+    "deliveryTime": "In 3 days",
+    "reviews": [
+      {
+        "_id": "r_w4snalt80",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_2wpxrpokx",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_ykdgjhfdy",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_rw70ovhzt",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_c937g36al",
+    "name": "Programmable Drip Coffee Maker",
+    "description": "12-cup glass carafe coffee maker with customizable brew strength settings, 24-hour auto-start timer, self-cleaning mode, and hotplate temperature controls.",
+    "price": 7196,
+    "images": [
+      "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6",
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+      "https://images.unsplash.com/photo-1513530534585-c7b1394c6d51"
+    ],
+    "category": "Home Essentials",
+    "brand": "Cuisinart",
+    "countInStock": 15,
+    "discount": 15,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_oi9fggnrh",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_59jk0j90j",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_1lfn1xvcn",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_554v84l9p",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_85xxd7rc0",
+    "name": "Modern Dimmable Desk Lamp",
+    "description": "Sleek metal table lamp with rotating head, adjustable brightness control, 3 color-temperature modes, and integrated wireless fast charging base for smartphones.",
+    "price": 3600,
+    "images": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?q=80&w=600",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?q=80&w=600",
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?q=80&w=600"
+    ],
+    "category": "Home Essentials",
+    "brand": "Philips",
+    "countInStock": 20,
+    "discount": 0,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_7tjje4e5j",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_lgln4ki3n",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_8mwxzk8ro",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_ihm0kn5n9",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_pkq77n5p2",
+    "name": "Stainless Steel Air Fryer",
+    "description": "Multifunctional digital air fryer with 5.8-quart basket size, 11 convenient preset buttons, and rapid 360 air heat circulation for oil-free crispy cooking.",
+    "price": 9599,
+    "images": [
+      "https://images.unsplash.com/photo-1621972750749-0fbb1abb7736",
+      "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7"
+    ],
+    "category": "Home Essentials",
+    "brand": "Cosori",
+    "countInStock": 14,
+    "discount": 10,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_uszjpr0vj",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_h7n69sw9z",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_vjm9ezw1q",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_me3owne0j",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_nhfxhcrb3",
+    "name": "Memory Foam Bed Pillows (2-Pack)",
+    "description": "Premium shredded memory foam pillows with breathable bamboo covers. Height adjustable filler accommodates side, back, and stomach sleepers.",
+    "price": 3199,
+    "images": [
+      "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2",
+      "https://images.unsplash.com/photo-1631679706909-1844bbd07221"
+    ],
+    "category": "Home Essentials",
+    "brand": "SleepyHead",
+    "countInStock": 30,
+    "discount": 10,
+    "deliveryTime": "In 2 days",
+    "reviews": [
+      {
+        "_id": "r_08ww9h5xn",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_x8wstt711",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_vdb2s3vs2",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_5l6mw5ezj",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_v0gbmjzvs",
+    "name": "Electric Gooseneck Kettle",
+    "description": "1.0-liter capacity electric kettle with precision pour spout, temperature control range of 140-212 F, and automatic 1-hour warm holding temperature profile.",
+    "price": 5599,
+    "images": [
+      "https://images.unsplash.com/photo-1576092768241-dec231879fc3",
+      "https://images.unsplash.com/photo-1594385208974-2e75f8d7bb48"
+    ],
+    "category": "Home Essentials",
+    "brand": "Fellow",
+    "countInStock": 15,
+    "discount": 0,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_503ol6875",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_ihfqp0c5j",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_dzu3toi2f",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_vm70qcr4x",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_rjn683po6",
+    "name": "Sony PlayStation 5 Console (Slim)",
+    "description": "Experience lightning-fast loading with an ultra-high-speed SSD, deeper immersion with support for haptic feedback, adaptive triggers, 3D Audio, and an all-new generation of incredible PlayStation games.",
+    "price": 39920,
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?q=80&w=600",
+      "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600",
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?q=80&w=600"
+    ],
+    "category": "Gaming",
+    "brand": "Sony",
+    "countInStock": 6,
+    "discount": 0,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_ca54kq6gs",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_4qq4hk2np",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_4xg4nbpfe",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_fiyeq5pfq",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_amiou3wu8",
+    "name": "Xbox Wireless Controller - Carbon Black",
+    "description": "Experience the modernized design of the Xbox Wireless Controller, featuring sculpted surfaces and refined geometry for enhanced comfort during gameplay.",
+    "price": 4799,
+    "images": [
+      "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3",
+      "https://images.unsplash.com/photo-1593305841991-05c297ba4575"
+    ],
+    "category": "Gaming",
+    "brand": "Microsoft",
+    "countInStock": 25,
+    "discount": 15,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_lc7lk7m4o",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_wni87usme",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_j4tf21yi2",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_qzmgfap7s",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_xzboz3vze",
+    "name": "Nintendo Switch OLED Model",
+    "description": "Features a vibrant 7-inch OLED screen, a wide adjustable stand, a dock with a wired LAN port, 64 GB of internal storage, and enhanced audio in handheld and tabletop modes.",
+    "price": 27999,
+    "images": [
+      "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9",
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f"
+    ],
+    "category": "Gaming",
+    "brand": "Nintendo",
+    "countInStock": 10,
+    "discount": 5,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_xtvq7rezf",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_3nmf4gpmk",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_8xs64jy2f",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_rvqq69g2y",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_wu6payno3",
+    "name": "HyperX Cloud II Gaming Headset",
+    "description": "Comfortable over-ear gaming headphones featuring memory foam ear cushions, padded leatherette headband, digitally enhanced noise-canceling microphone, and hardware-driven virtual 7.1 surround sound.",
+    "price": 7999,
+    "images": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0",
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef"
+    ],
+    "category": "Gaming",
+    "brand": "HyperX",
+    "countInStock": 20,
+    "discount": 20,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_g9ube5h5t",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_cewgly0ns",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_1dzkw9a4q",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_py744id7o",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_6472fkdh1",
+    "name": "Secretlab TITAN Evo Gaming Chair",
+    "description": "Evolved design with proprietary Pebble seat base, magnetic memory foam head pillow, 4-way lumbar support system, and heavy duty cold-cure foam for long gaming sessions.",
+    "price": 43920,
+    "images": [
+      "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600",
+      "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?q=80&w=600"
+    ],
+    "category": "Gaming",
+    "brand": "Secretlab",
+    "countInStock": 8,
+    "discount": 0,
+    "deliveryTime": "In 3 days",
+    "reviews": [
+      {
+        "_id": "r_7rum587lj",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_0pbhs4y5e",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_iyqjpu9jz",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_htv10x17q",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_u2ed6943f",
+    "name": "Elgato Stream Deck MK.2",
+    "description": "Interface controller with 15 customizable LCD keys to control apps, trigger actions, control audio, launch socials, and adjust lighting. Hot-swappable faceplate.",
+    "price": 11999,
+    "images": [
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef",
+      "https://images.unsplash.com/photo-1628277613967-6abca504d0ac"
+    ],
+    "category": "Gaming",
+    "brand": "Elgato",
+    "countInStock": 12,
+    "discount": 10,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_m9k40qcqb",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_q6huvuxvk",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_ka0h7zpso",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_9someyeiq",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_tlxzp8wt8",
+    "name": "Yeti Rambler 30 oz Tumbler",
+    "description": "Double-wall vacuum insulated mug with MagSlider lid. Made of kitchen-grade stainless steel, puncture-resistant, and rust-resistant. Fits in standard cup holders.",
+    "price": 3040,
+    "images": [
+      "https://images.unsplash.com/photo-1577937927133-66ef06acdf18?q=80&w=600",
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=600"
+    ],
+    "category": "Home Essentials",
+    "brand": "Yeti",
+    "countInStock": 45,
+    "discount": 0,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_gtjg471td",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_smllxum4i",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_7utlx2upn",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_0irh85yia",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_mp8f7n4o2",
+    "name": "Fitbit Charge 6 tracker",
+    "description": "Fitness tracker with built-in GPS, heart rate monitor, stress management, sleep analysis, and YouTube Music controls. Includes 6 months Premium membership.",
+    "price": 12796,
+    "images": [
+      "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6",
+      "https://images.unsplash.com/photo-1557935728-e6d1eaabe558"
+    ],
+    "category": "Electronics",
+    "brand": "Fitbit",
+    "countInStock": 16,
+    "discount": 15,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_k94w8zokd",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_63lf9rf47",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_bjbo2n6ch",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_rhpxg4wdl",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_p3sae2spf",
+    "name": "Vitamix E310 Explorian Blender",
+    "description": "High-performance blender featuring ten variable speeds, pulse feature, 48-ounce container, and aircraft-grade hardened stainless steel cutting blades.",
+    "price": 27996,
+    "images": [
+      "https://images.unsplash.com/photo-1578643463396-0997cb5328c1",
+      "https://images.unsplash.com/photo-1534939561126-855b8675edd7"
+    ],
+    "category": "Home Essentials",
+    "brand": "Vitamix",
+    "countInStock": 12,
+    "discount": 10,
+    "deliveryTime": "In 2 days",
+    "reviews": [
+      {
+        "_id": "r_ilp03atej",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_7933gd41e",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_x2s1o1y4a",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_uvpxu3hps",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_rm8zvg0ah",
+    "name": "Ray-Ban Wayfarer Sunglasses Classic",
+    "description": "The most recognizable style in the history of sunglasses. Distinctive shape is combined with the traditional Ray-Ban signature logo on the sculpted temples.",
+    "price": 13040,
+    "images": [
+      "https://images.unsplash.com/photo-1508296695146-257a814070b4",
+      "https://images.unsplash.com/photo-1577803645773-f96470509666"
+    ],
+    "category": "Fashion",
+    "brand": "Ray-Ban",
+    "countInStock": 15,
+    "discount": 5,
+    "deliveryTime": "Tomorrow",
+    "reviews": [
+      {
+        "_id": "r_tzdwilc0a",
+        "name": "John Doe",
+        "rating": 5,
+        "comment": "Absolutely amazing product! Exceeded my expectations.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_qxum85zwu",
+        "name": "Sarah Connor",
+        "rating": 4,
+        "comment": "Very high quality build, though shipping took an extra day.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_q66ozdzgo",
+        "name": "Mike Ross",
+        "rating": 5,
+        "comment": "Super fast delivery and the item works flawlessly. Highly recommend!",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      },
+      {
+        "_id": "r_qrbyod97h",
+        "name": "Jane Miller",
+        "rating": 3,
+        "comment": "Decent value, but could have been packaged better.",
+        "user": "u_073tj0jas",
+        "createdAt": "2026-05-30T09:02:35.905Z"
+      }
+    ],
+    "numReviews": 4,
+    "rating": 4.3,
+    "createdAt": "2026-05-30T09:02:35.905Z",
+    "updatedAt": "2026-05-30T09:02:35.905Z"
+  },
+  {
+    "_id": "p_8ms2bru3a",
+    "name": "Elegant Floral Summer Dress",
+    "description": "A beautiful, lightweight summer dress featuring a vibrant floral pattern, A-line silhouette, and comfortable cotton-blend fabric. Perfect for warm sunny days and casual outings.",
+    "price": 1899,
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?q=80&w=600",
+      "https://images.unsplash.com/photo-1612336307429-8a898d10e223?q=80&w=600"
+    ],
+    "category": "Girls Clothing",
+    "brand": "Zara",
+    "rating": 4.6,
+    "numReviews": 12,
+    "countInStock": 25,
+    "discount": 15,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:12:37.621Z",
+    "updatedAt": "2026-05-30T10:12:37.622Z"
+  },
+  {
+    "_id": "p_0kgta6u77",
+    "name": "Stunning Red Evening Gown",
+    "description": "Turn heads at any formal event with this exquisite red evening gown. Made of premium satin with a sweetheart neckline, thigh-high slit, and elegant drape detail.",
+    "price": 4999,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8a898d10e223?q=80&w=600",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=600"
+    ],
+    "category": "Girls Clothing",
+    "brand": "Vero Moda",
+    "rating": 4.8,
+    "numReviews": 24,
+    "countInStock": 10,
+    "discount": 10,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:12:37.622Z",
+    "updatedAt": "2026-05-30T10:12:37.622Z"
+  },
+  {
+    "_id": "p_5jdnntwb4",
+    "name": "Pastel Pink Prom Dress",
+    "description": "A magical prom dress featuring delicate lace embroidery, a tulle skirt layer, and a beautiful open back. Gives a charming princess feel for proms and wedding parties.",
+    "price": 3499,
+    "images": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=600",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?q=80&w=600"
+    ],
+    "category": "Girls Clothing",
+    "brand": "Forever 21",
+    "rating": 4.7,
+    "numReviews": 18,
+    "countInStock": 15,
+    "discount": 20,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:12:37.622Z",
+    "updatedAt": "2026-05-30T10:12:37.622Z"
+  },
+  {
+    "_id": "p_mp626gydp",
+    "name": "Designer Emerald Party Dress",
+    "description": "An elegant emerald green knee-length dress with puff sleeves, textured fabric, and a stylish waist belt. Perfect for cocktail parties and evening dinners.",
+    "price": 2799,
+    "images": [
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?q=80&w=600",
+      "https://images.unsplash.com/photo-1618244972963-dbee1a7edc95?q=80&w=600"
+    ],
+    "category": "Girls Clothing",
+    "brand": "Zara",
+    "rating": 4.5,
+    "numReviews": 15,
+    "countInStock": 20,
+    "discount": 5,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:12:37.622Z",
+    "updatedAt": "2026-05-30T10:12:37.622Z"
+  },
+  {
+    "_id": "p_khiinwtt6",
+    "name": "Classic Blue Summer Dress",
+    "description": "Vibrant sky blue casual dress with adjustable shoulder straps and a smocked bodice. Made of 100% breathable organic linen for ultimate comfort.",
+    "price": 1599,
+    "images": [
+      "https://images.unsplash.com/photo-1618244972963-dbee1a7edc95?q=80&w=600",
+      "https://images.unsplash.com/photo-1550639525-c97d455acf70?q=80&w=600"
+    ],
+    "category": "Girls Clothing",
+    "brand": "H&M",
+    "rating": 4.4,
+    "numReviews": 32,
+    "countInStock": 30,
+    "discount": 10,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:12:37.622Z",
+    "updatedAt": "2026-05-30T10:12:37.622Z"
+  },
+  {
+    "_id": "p_9qfnxldkm",
+    "name": "Stylish Casual Denim Dress",
+    "description": "A classic button-down denim dress with long sleeves, breast pockets, and a matching waist tie. A versatile addition to your everyday wardrobe.",
+    "price": 2199,
+    "images": [
+      "https://images.unsplash.com/photo-1550639525-c97d455acf70?q=80&w=600",
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=600"
+    ],
+    "category": "Girls Clothing",
+    "brand": "Levi's",
+    "rating": 4.6,
+    "numReviews": 29,
+    "countInStock": 18,
+    "discount": 12,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:12:37.622Z",
+    "updatedAt": "2026-05-30T10:12:37.622Z"
+  },
+  {
+    "_id": "p_m995cz4to",
+    "name": "Men's Slim Fit Denim Jacket",
+    "description": "A classic slim-fit denim jacket featuring chest flap pockets, button closures, and washed denim finish. The perfect casual layer for all seasons.",
+    "price": 2499,
+    "images": [
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?q=80&w=600"
+    ],
+    "category": "Men",
+    "brand": "Levi's",
+    "rating": 4.5,
+    "numReviews": 14,
+    "countInStock": 25,
+    "discount": 10,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:24:35.683Z",
+    "updatedAt": "2026-05-30T10:24:35.684Z"
+  },
+  {
+    "_id": "p_6ruxj52yv",
+    "name": "Men's Premium Leather Boot",
+    "description": "Crafted with 100% genuine full-grain leather, these boots feature a cushioned insole, breathable mesh lining, and heavy-duty slip-resistant rubber outsole.",
+    "price": 4899,
+    "images": [
+      "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?q=80&w=600"
+    ],
+    "category": "Men",
+    "brand": "Woodland",
+    "rating": 4.7,
+    "numReviews": 22,
+    "countInStock": 12,
+    "discount": 15,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:24:35.684Z",
+    "updatedAt": "2026-05-30T10:24:35.684Z"
+  },
+  {
+    "_id": "p_epqavld79",
+    "name": "Kids' Colorful Dungaree Set",
+    "description": "Ultra-comfortable cotton dungaree set for kids with adjustable shoulder straps and a matching cotton striped t-shirt. Breathable and play-safe fabric.",
+    "price": 1299,
+    "images": [
+      "https://images.unsplash.com/photo-1519457431-44ccd64a579b?q=80&w=600"
+    ],
+    "category": "Kids",
+    "brand": "Mothercare",
+    "rating": 4.4,
+    "numReviews": 18,
+    "countInStock": 30,
+    "discount": 15,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:24:35.684Z",
+    "updatedAt": "2026-05-30T10:24:35.684Z"
+  },
+  {
+    "_id": "p_vb7ve4g57",
+    "name": "Kids' Printed Summer Floral Dress",
+    "description": "A breezy cotton summer dress with a charming floral print and ruffled sleeves. Lightweight, breathable, and pre-washed for extra softness.",
+    "price": 999,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?q=80&w=600"
+    ],
+    "category": "Kids",
+    "brand": "Gini & Jony",
+    "rating": 4.6,
+    "numReviews": 11,
+    "countInStock": 20,
+    "discount": 10,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:24:35.684Z",
+    "updatedAt": "2026-05-30T10:24:35.684Z"
+  },
+  {
+    "_id": "p_uzmhtnei1",
+    "name": "Premium Handcrafted Leather Wallet",
+    "description": "Classic bi-fold wallet made from premium top-grain leather. Includes 8 card slots, RFID blocking technology, and dual currency compartments.",
+    "price": 1599,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=600"
+    ],
+    "category": "Accessories",
+    "brand": "Tommy Hilfiger",
+    "rating": 4.6,
+    "numReviews": 35,
+    "countInStock": 45,
+    "discount": 5,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:24:35.684Z",
+    "updatedAt": "2026-05-30T10:24:35.684Z"
+  },
+  {
+    "_id": "p_luztaj87l",
+    "name": "Minimalist Stainless Steel Cuff Bracelet",
+    "description": "Elegant and versatile steel cuff with a matte brushed finish. Corrosion-resistant, hypoallergenic, and adjustable fit for everyday fashion statement.",
+    "price": 899,
+    "images": [
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?q=80&w=600"
+    ],
+    "category": "Accessories",
+    "brand": "Fossil",
+    "rating": 4.3,
+    "numReviews": 24,
+    "countInStock": 50,
+    "discount": 20,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:24:35.684Z",
+    "updatedAt": "2026-05-30T10:24:35.684Z"
+  },
+  {
+    "_id": "p_btsp0j0s9",
+    "name": "Premium Robotic Vacuum Cleaner with Mop",
+    "description": "Smart robotic vacuum cleaner with advanced LiDAR navigation, powerful 4000Pa suction, dynamic mapping, and self-emptying dustbin support. Voice controllable.",
+    "price": 24999,
+    "images": [
+      "https://images.unsplash.com/photo-1610484826967-09c5720778c7?q=80&w=600"
+    ],
+    "category": "Home Essentials",
+    "brand": "Xiaomi",
+    "rating": 4.8,
+    "numReviews": 19,
+    "countInStock": 8,
+    "discount": 10,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:24:35.684Z",
+    "updatedAt": "2026-05-30T10:24:35.684Z"
+  },
+  {
+    "_id": "p_5cfk9kwhq",
+    "name": "Smart Digital Air Fryer 5.5L",
+    "description": "Oil-free rapid air circulation fryer with a digital touch panel, 8 smart pre-sets, and dishwasher-safe non-stick basket. Eat healthy, crispy meals.",
+    "price": 6499,
+    "images": [
+      "https://images.unsplash.com/photo-1621972750749-0fbb1abb7736?q=80&w=600"
+    ],
+    "category": "Home Essentials",
+    "brand": "Philips",
+    "rating": 4.7,
+    "numReviews": 54,
+    "countInStock": 15,
+    "discount": 15,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:24:35.684Z",
+    "updatedAt": "2026-05-30T10:24:35.684Z"
+  },
+  {
+    "_id": "p_xk4raxnj3",
+    "name": "Premium Electronics Item Model-1",
+    "description": "A top-rated high-quality professional choice in our Electronics department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 5768,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=600",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=600"
+    ],
+    "category": "Electronics",
+    "brand": "Brand-A",
+    "rating": 4.5,
+    "numReviews": 35,
+    "countInStock": 11,
+    "discount": 18,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.296Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_u9trhawed",
+    "name": "Premium Electronics Item Model-2",
+    "description": "A top-rated high-quality professional choice in our Electronics department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 5475,
+    "images": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?q=80&w=600",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?q=80&w=600"
+    ],
+    "category": "Electronics",
+    "brand": "Premium-B",
+    "rating": 4.3,
+    "numReviews": 19,
+    "countInStock": 33,
+    "discount": 14,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_70x25dpmd",
+    "name": "Premium Electronics Item Model-3",
+    "description": "A top-rated high-quality professional choice in our Electronics department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6827,
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?q=80&w=600",
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?q=80&w=600"
+    ],
+    "category": "Electronics",
+    "brand": "Standard-C",
+    "rating": 4.5,
+    "numReviews": 40,
+    "countInStock": 16,
+    "discount": 19,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_2zk8l5b40",
+    "name": "Premium Mobiles Item Model-1",
+    "description": "A top-rated high-quality professional choice in our Mobiles department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 1596,
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?q=80&w=600",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=600"
+    ],
+    "category": "Mobiles",
+    "brand": "Brand-A",
+    "rating": 4.4,
+    "numReviews": 30,
+    "countInStock": 15,
+    "discount": 6,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_3gjny63lm",
+    "name": "Premium Mobiles Item Model-2",
+    "description": "A top-rated high-quality professional choice in our Mobiles department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6331,
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=600",
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?q=80&w=600"
+    ],
+    "category": "Mobiles",
+    "brand": "Premium-B",
+    "rating": 4.6,
+    "numReviews": 7,
+    "countInStock": 19,
+    "discount": 19,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_0gi6o94u0",
+    "name": "Premium Mobiles Item Model-3",
+    "description": "A top-rated high-quality professional choice in our Mobiles department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 2252,
+    "images": [
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?q=80&w=600",
+      "https://images.unsplash.com/photo-1573148195900-7845dcb9b127?q=80&w=600"
+    ],
+    "category": "Mobiles",
+    "brand": "Standard-C",
+    "rating": 4.5,
+    "numReviews": 22,
+    "countInStock": 21,
+    "discount": 7,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_nkumbg34l",
+    "name": "Premium Mobiles Item Model-4",
+    "description": "A top-rated high-quality professional choice in our Mobiles department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 5150,
+    "images": [
+      "https://images.unsplash.com/photo-1573148195900-7845dcb9b127?q=80&w=600",
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?q=80&w=600"
+    ],
+    "category": "Mobiles",
+    "brand": "Brand-A",
+    "rating": 4.2,
+    "numReviews": 38,
+    "countInStock": 31,
+    "discount": 7,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_wkjlrhs37",
+    "name": "Premium Mobiles Item Model-5",
+    "description": "A top-rated high-quality professional choice in our Mobiles department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 4333,
+    "images": [
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?q=80&w=600",
+      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?q=80&w=600"
+    ],
+    "category": "Mobiles",
+    "brand": "Premium-B",
+    "rating": 4.9,
+    "numReviews": 45,
+    "countInStock": 22,
+    "discount": 2,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_n0yf2njwz",
+    "name": "Premium Mobiles Item Model-6",
+    "description": "A top-rated high-quality professional choice in our Mobiles department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 4650,
+    "images": [
+      "https://images.unsplash.com/photo-1605236453806-6ff36851218e?q=80&w=600",
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=600"
+    ],
+    "category": "Mobiles",
+    "brand": "Standard-C",
+    "rating": 4.8,
+    "numReviews": 39,
+    "countInStock": 19,
+    "discount": 20,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_bnva447ej",
+    "name": "Premium Girls Clothing Item Model-1",
+    "description": "A top-rated high-quality professional choice in our Girls Clothing department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 5727,
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?q=80&w=600",
+      "https://images.unsplash.com/photo-1612336307429-8a898d10e223?q=80&w=600"
+    ],
+    "category": "Girls Clothing",
+    "brand": "Brand-A",
+    "rating": 4.3,
+    "numReviews": 42,
+    "countInStock": 27,
+    "discount": 19,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_6wfulzkm3",
+    "name": "Premium Girls Clothing Item Model-2",
+    "description": "A top-rated high-quality professional choice in our Girls Clothing department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6722,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8a898d10e223?q=80&w=600",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=600"
+    ],
+    "category": "Girls Clothing",
+    "brand": "Premium-B",
+    "rating": 4.8,
+    "numReviews": 6,
+    "countInStock": 39,
+    "discount": 2,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_1kbxj05xt",
+    "name": "Premium Girls Clothing Item Model-3",
+    "description": "A top-rated high-quality professional choice in our Girls Clothing department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 4562,
+    "images": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=600",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?q=80&w=600"
+    ],
+    "category": "Girls Clothing",
+    "brand": "Standard-C",
+    "rating": 4.6,
+    "numReviews": 47,
+    "countInStock": 35,
+    "discount": 18,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_evfy57nmc",
+    "name": "Premium Girls Clothing Item Model-4",
+    "description": "A top-rated high-quality professional choice in our Girls Clothing department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 5366,
+    "images": [
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?q=80&w=600",
+      "https://images.unsplash.com/photo-1618244972963-dbee1a7edc95?q=80&w=600"
+    ],
+    "category": "Girls Clothing",
+    "brand": "Brand-A",
+    "rating": 4.6,
+    "numReviews": 11,
+    "countInStock": 19,
+    "discount": 8,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_0w48z6jmg",
+    "name": "Premium Men Item Model-1",
+    "description": "A top-rated high-quality professional choice in our Men department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6202,
+    "images": [
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?q=80&w=600",
+      "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?q=80&w=600"
+    ],
+    "category": "Men",
+    "brand": "Brand-A",
+    "rating": 4.5,
+    "numReviews": 48,
+    "countInStock": 39,
+    "discount": 9,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_5d2x65u8e",
+    "name": "Premium Men Item Model-2",
+    "description": "A top-rated high-quality professional choice in our Men department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6119,
+    "images": [
+      "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?q=80&w=600",
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=600"
+    ],
+    "category": "Men",
+    "brand": "Premium-B",
+    "rating": 4.8,
+    "numReviews": 34,
+    "countInStock": 35,
+    "discount": 6,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_lgyins0vv",
+    "name": "Premium Men Item Model-3",
+    "description": "A top-rated high-quality professional choice in our Men department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 3144,
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=600",
+      "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?q=80&w=600"
+    ],
+    "category": "Men",
+    "brand": "Standard-C",
+    "rating": 4.5,
+    "numReviews": 24,
+    "countInStock": 28,
+    "discount": 20,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_7a5y2wk6a",
+    "name": "Premium Men Item Model-4",
+    "description": "A top-rated high-quality professional choice in our Men department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6746,
+    "images": [
+      "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?q=80&w=600",
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=600"
+    ],
+    "category": "Men",
+    "brand": "Brand-A",
+    "rating": 4.8,
+    "numReviews": 12,
+    "countInStock": 34,
+    "discount": 4,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_z6ms9y0qy",
+    "name": "Premium Men Item Model-5",
+    "description": "A top-rated high-quality professional choice in our Men department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6132,
+    "images": [
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=600",
+      "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=600"
+    ],
+    "category": "Men",
+    "brand": "Premium-B",
+    "rating": 4.9,
+    "numReviews": 11,
+    "countInStock": 33,
+    "discount": 2,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_i0whsjxu3",
+    "name": "Premium Men Item Model-6",
+    "description": "A top-rated high-quality professional choice in our Men department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 1994,
+    "images": [
+      "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=600",
+      "https://images.unsplash.com/photo-1488161628813-04466f872be2?q=80&w=600"
+    ],
+    "category": "Men",
+    "brand": "Standard-C",
+    "rating": 4.4,
+    "numReviews": 18,
+    "countInStock": 14,
+    "discount": 6,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_5s71s236k",
+    "name": "Premium Men Item Model-7",
+    "description": "A top-rated high-quality professional choice in our Men department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6595,
+    "images": [
+      "https://images.unsplash.com/photo-1488161628813-04466f872be2?q=80&w=600",
+      "https://images.unsplash.com/photo-1618886614638-80e3c103d31a?q=80&w=600"
+    ],
+    "category": "Men",
+    "brand": "Brand-A",
+    "rating": 4.9,
+    "numReviews": 37,
+    "countInStock": 12,
+    "discount": 10,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_vn8hy249l",
+    "name": "Premium Men Item Model-8",
+    "description": "A top-rated high-quality professional choice in our Men department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6979,
+    "images": [
+      "https://images.unsplash.com/photo-1618886614638-80e3c103d31a?q=80&w=600",
+      "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?q=80&w=600"
+    ],
+    "category": "Men",
+    "brand": "Premium-B",
+    "rating": 4.8,
+    "numReviews": 27,
+    "countInStock": 23,
+    "discount": 10,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_ozf088uud",
+    "name": "Premium Kids Item Model-1",
+    "description": "A top-rated high-quality professional choice in our Kids department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6518,
+    "images": [
+      "https://images.unsplash.com/photo-1519457431-44ccd64a579b?q=80&w=600",
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?q=80&w=600"
+    ],
+    "category": "Kids",
+    "brand": "Brand-A",
+    "rating": 4.2,
+    "numReviews": 14,
+    "countInStock": 19,
+    "discount": 11,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_852ekamfp",
+    "name": "Premium Kids Item Model-2",
+    "description": "A top-rated high-quality professional choice in our Kids department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 2496,
+    "images": [
+      "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?q=80&w=600",
+      "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?q=80&w=600"
+    ],
+    "category": "Kids",
+    "brand": "Premium-B",
+    "rating": 4.5,
+    "numReviews": 37,
+    "countInStock": 11,
+    "discount": 7,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_25kquyw65",
+    "name": "Premium Kids Item Model-3",
+    "description": "A top-rated high-quality professional choice in our Kids department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 1563,
+    "images": [
+      "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?q=80&w=600",
+      "https://images.unsplash.com/photo-1513553404607-988bf2703777?q=80&w=600"
+    ],
+    "category": "Kids",
+    "brand": "Standard-C",
+    "rating": 4.4,
+    "numReviews": 8,
+    "countInStock": 17,
+    "discount": 11,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_ico9rfdal",
+    "name": "Premium Kids Item Model-4",
+    "description": "A top-rated high-quality professional choice in our Kids department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 3704,
+    "images": [
+      "https://images.unsplash.com/photo-1513553404607-988bf2703777?q=80&w=600",
+      "https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?q=80&w=600"
+    ],
+    "category": "Kids",
+    "brand": "Brand-A",
+    "rating": 4.4,
+    "numReviews": 31,
+    "countInStock": 37,
+    "discount": 2,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_hh4h4awqs",
+    "name": "Premium Kids Item Model-5",
+    "description": "A top-rated high-quality professional choice in our Kids department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 2538,
+    "images": [
+      "https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?q=80&w=600",
+      "https://images.unsplash.com/photo-1516627145497-ae6968895b74?q=80&w=600"
+    ],
+    "category": "Kids",
+    "brand": "Premium-B",
+    "rating": 4.4,
+    "numReviews": 24,
+    "countInStock": 24,
+    "discount": 9,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_3rpdyqdhc",
+    "name": "Premium Kids Item Model-6",
+    "description": "A top-rated high-quality professional choice in our Kids department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 4976,
+    "images": [
+      "https://images.unsplash.com/photo-1516627145497-ae6968895b74?q=80&w=600",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?q=80&w=600"
+    ],
+    "category": "Kids",
+    "brand": "Standard-C",
+    "rating": 4.3,
+    "numReviews": 21,
+    "countInStock": 23,
+    "discount": 1,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_1m0q3drdi",
+    "name": "Premium Kids Item Model-7",
+    "description": "A top-rated high-quality professional choice in our Kids department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 2513,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?q=80&w=600",
+      "https://images.unsplash.com/photo-1566004100631-35d015d6a491?q=80&w=600"
+    ],
+    "category": "Kids",
+    "brand": "Brand-A",
+    "rating": 4.7,
+    "numReviews": 36,
+    "countInStock": 17,
+    "discount": 11,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_vqj0xnud7",
+    "name": "Premium Kids Item Model-8",
+    "description": "A top-rated high-quality professional choice in our Kids department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 5038,
+    "images": [
+      "https://images.unsplash.com/photo-1566004100631-35d015d6a491?q=80&w=600",
+      "https://images.unsplash.com/photo-1519457431-44ccd64a579b?q=80&w=600"
+    ],
+    "category": "Kids",
+    "brand": "Premium-B",
+    "rating": 4.7,
+    "numReviews": 44,
+    "countInStock": 30,
+    "discount": 6,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.297Z",
+    "updatedAt": "2026-05-30T10:30:59.297Z"
+  },
+  {
+    "_id": "p_8t39h2w46",
+    "name": "Premium Accessories Item Model-1",
+    "description": "A top-rated high-quality professional choice in our Accessories department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 1795,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=600",
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?q=80&w=600"
+    ],
+    "category": "Accessories",
+    "brand": "Brand-A",
+    "rating": 4.3,
+    "numReviews": 13,
+    "countInStock": 25,
+    "discount": 3,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_fab88uwp1",
+    "name": "Premium Accessories Item Model-2",
+    "description": "A top-rated high-quality professional choice in our Accessories department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 5691,
+    "images": [
+      "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?q=80&w=600",
+      "https://images.unsplash.com/photo-1524592094714-0f0654e20314?q=80&w=600"
+    ],
+    "category": "Accessories",
+    "brand": "Premium-B",
+    "rating": 4.8,
+    "numReviews": 40,
+    "countInStock": 22,
+    "discount": 3,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_g57z8k0z2",
+    "name": "Premium Accessories Item Model-3",
+    "description": "A top-rated high-quality professional choice in our Accessories department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 3461,
+    "images": [
+      "https://images.unsplash.com/photo-1524592094714-0f0654e20314?q=80&w=600",
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=600"
+    ],
+    "category": "Accessories",
+    "brand": "Standard-C",
+    "rating": 4.8,
+    "numReviews": 15,
+    "countInStock": 21,
+    "discount": 6,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_5rp3q0re6",
+    "name": "Premium Accessories Item Model-4",
+    "description": "A top-rated high-quality professional choice in our Accessories department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 1776,
+    "images": [
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=600",
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?q=80&w=600"
+    ],
+    "category": "Accessories",
+    "brand": "Brand-A",
+    "rating": 4.7,
+    "numReviews": 48,
+    "countInStock": 20,
+    "discount": 12,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_if7oacp8a",
+    "name": "Premium Accessories Item Model-5",
+    "description": "A top-rated high-quality professional choice in our Accessories department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 3871,
+    "images": [
+      "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?q=80&w=600",
+      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?q=80&w=600"
+    ],
+    "category": "Accessories",
+    "brand": "Premium-B",
+    "rating": 4.4,
+    "numReviews": 20,
+    "countInStock": 15,
+    "discount": 9,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_m1lgkpcwp",
+    "name": "Premium Accessories Item Model-6",
+    "description": "A top-rated high-quality professional choice in our Accessories department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 2270,
+    "images": [
+      "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?q=80&w=600",
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&w=600"
+    ],
+    "category": "Accessories",
+    "brand": "Standard-C",
+    "rating": 4.5,
+    "numReviews": 13,
+    "countInStock": 35,
+    "discount": 19,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_fk85cxq6g",
+    "name": "Premium Accessories Item Model-7",
+    "description": "A top-rated high-quality professional choice in our Accessories department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6177,
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?q=80&w=600",
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=600"
+    ],
+    "category": "Accessories",
+    "brand": "Brand-A",
+    "rating": 4.4,
+    "numReviews": 25,
+    "countInStock": 11,
+    "discount": 8,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_tw0c6h3km",
+    "name": "Premium Accessories Item Model-8",
+    "description": "A top-rated high-quality professional choice in our Accessories department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 4948,
+    "images": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=600",
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=600"
+    ],
+    "category": "Accessories",
+    "brand": "Premium-B",
+    "rating": 4.5,
+    "numReviews": 20,
+    "countInStock": 16,
+    "discount": 3,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_3ttd91085",
+    "name": "Premium Skin Care Item Model-1",
+    "description": "A top-rated high-quality professional choice in our Skin Care department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6567,
+    "images": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?q=80&w=600",
+      "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=600"
+    ],
+    "category": "Skin Care",
+    "brand": "Brand-A",
+    "rating": 4.7,
+    "numReviews": 46,
+    "countInStock": 20,
+    "discount": 1,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_grig7l2v8",
+    "name": "Premium Skin Care Item Model-2",
+    "description": "A top-rated high-quality professional choice in our Skin Care department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 4180,
+    "images": [
+      "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=600",
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?q=80&w=600"
+    ],
+    "category": "Skin Care",
+    "brand": "Premium-B",
+    "rating": 4.8,
+    "numReviews": 37,
+    "countInStock": 21,
+    "discount": 16,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_szdqexh2u",
+    "name": "Premium Skin Care Item Model-3",
+    "description": "A top-rated high-quality professional choice in our Skin Care department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6975,
+    "images": [
+      "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?q=80&w=600",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=600"
+    ],
+    "category": "Skin Care",
+    "brand": "Standard-C",
+    "rating": 4.9,
+    "numReviews": 24,
+    "countInStock": 17,
+    "discount": 3,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_spboek3vg",
+    "name": "Premium Skin Care Item Model-4",
+    "description": "A top-rated high-quality professional choice in our Skin Care department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 5193,
+    "images": [
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?q=80&w=600",
+      "https://images.unsplash.com/photo-1617897903246-719242758050?q=80&w=600"
+    ],
+    "category": "Skin Care",
+    "brand": "Brand-A",
+    "rating": 4.7,
+    "numReviews": 31,
+    "countInStock": 16,
+    "discount": 6,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_8b69s3b97",
+    "name": "Premium Skin Care Item Model-5",
+    "description": "A top-rated high-quality professional choice in our Skin Care department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6830,
+    "images": [
+      "https://images.unsplash.com/photo-1617897903246-719242758050?q=80&w=600",
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?q=80&w=600"
+    ],
+    "category": "Skin Care",
+    "brand": "Premium-B",
+    "rating": 4.8,
+    "numReviews": 27,
+    "countInStock": 24,
+    "discount": 18,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_u7s2aogo5",
+    "name": "Premium Skin Care Item Model-6",
+    "description": "A top-rated high-quality professional choice in our Skin Care department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 5782,
+    "images": [
+      "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?q=80&w=600",
+      "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?q=80&w=600"
+    ],
+    "category": "Skin Care",
+    "brand": "Standard-C",
+    "rating": 4.7,
+    "numReviews": 17,
+    "countInStock": 20,
+    "discount": 1,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_8a4qgqrbj",
+    "name": "Premium Skin Care Item Model-7",
+    "description": "A top-rated high-quality professional choice in our Skin Care department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6330,
+    "images": [
+      "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?q=80&w=600",
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=600"
+    ],
+    "category": "Skin Care",
+    "brand": "Brand-A",
+    "rating": 4.3,
+    "numReviews": 47,
+    "countInStock": 12,
+    "discount": 2,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_tgpktn4m5",
+    "name": "Premium Skin Care Item Model-8",
+    "description": "A top-rated high-quality professional choice in our Skin Care department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 5831,
+    "images": [
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=600",
+      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=600"
+    ],
+    "category": "Skin Care",
+    "brand": "Premium-B",
+    "rating": 4.8,
+    "numReviews": 8,
+    "countInStock": 28,
+    "discount": 8,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_tkjl3z83u",
+    "name": "Premium Fashion Item Model-1",
+    "description": "A top-rated high-quality professional choice in our Fashion department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 2935,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=600",
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=600"
+    ],
+    "category": "Fashion",
+    "brand": "Brand-A",
+    "rating": 4.2,
+    "numReviews": 12,
+    "countInStock": 27,
+    "discount": 6,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_f12g0suie",
+    "name": "Premium Fashion Item Model-2",
+    "description": "A top-rated high-quality professional choice in our Fashion department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6487,
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=600",
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=600"
+    ],
+    "category": "Fashion",
+    "brand": "Premium-B",
+    "rating": 4.9,
+    "numReviews": 29,
+    "countInStock": 37,
+    "discount": 9,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_m90xoujp8",
+    "name": "Premium Fashion Item Model-3",
+    "description": "A top-rated high-quality professional choice in our Fashion department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 3522,
+    "images": [
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=600",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=600"
+    ],
+    "category": "Fashion",
+    "brand": "Standard-C",
+    "rating": 4.2,
+    "numReviews": 41,
+    "countInStock": 34,
+    "discount": 15,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_r10o15yq8",
+    "name": "Premium Home Essentials Item Model-1",
+    "description": "A top-rated high-quality professional choice in our Home Essentials department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 6687,
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=600",
+      "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?q=80&w=600"
+    ],
+    "category": "Home Essentials",
+    "brand": "Brand-A",
+    "rating": 4.2,
+    "numReviews": 28,
+    "countInStock": 37,
+    "discount": 10,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_95wrsvlck",
+    "name": "Premium Home Essentials Item Model-2",
+    "description": "A top-rated high-quality professional choice in our Home Essentials department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 3728,
+    "images": [
+      "https://images.unsplash.com/photo-1580481072645-022f9a6dbf27?q=80&w=600",
+      "https://images.unsplash.com/photo-1592078615290-033ee584e267?q=80&w=600"
+    ],
+    "category": "Home Essentials",
+    "brand": "Premium-B",
+    "rating": 4.5,
+    "numReviews": 49,
+    "countInStock": 17,
+    "discount": 17,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_dp6ienibf",
+    "name": "Premium Gaming Item Model-1",
+    "description": "A top-rated high-quality professional choice in our Gaming department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 2865,
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?q=80&w=600",
+      "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600"
+    ],
+    "category": "Gaming",
+    "brand": "Brand-A",
+    "rating": 4.5,
+    "numReviews": 8,
+    "countInStock": 27,
+    "discount": 7,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_n05q16lz6",
+    "name": "Premium Gaming Item Model-2",
+    "description": "A top-rated high-quality professional choice in our Gaming department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 2741,
+    "images": [
+      "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600",
+      "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&w=600"
+    ],
+    "category": "Gaming",
+    "brand": "Premium-B",
+    "rating": 4.3,
+    "numReviews": 15,
+    "countInStock": 32,
+    "discount": 5,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_994ow54b7",
+    "name": "Premium Gaming Item Model-3",
+    "description": "A top-rated high-quality professional choice in our Gaming department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 2925,
+    "images": [
+      "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&w=600",
+      "https://images.unsplash.com/photo-1593305841991-05c297ba4575?q=80&w=600"
+    ],
+    "category": "Gaming",
+    "brand": "Standard-C",
+    "rating": 4.3,
+    "numReviews": 29,
+    "countInStock": 15,
+    "discount": 7,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_t3drjawfn",
+    "name": "Premium Gaming Item Model-4",
+    "description": "A top-rated high-quality professional choice in our Gaming department. Beautifully designed, fully tested, and highly recommended.",
+    "price": 3026,
+    "images": [
+      "https://images.unsplash.com/photo-1593305841991-05c297ba4575?q=80&w=600",
+      "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?q=80&w=600"
+    ],
+    "category": "Gaming",
+    "brand": "Brand-A",
+    "rating": 4.5,
+    "numReviews": 33,
+    "countInStock": 23,
+    "discount": 5,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "createdAt": "2026-05-30T10:30:59.298Z",
+    "updatedAt": "2026-05-30T10:30:59.298Z"
+  },
+  {
+    "_id": "p_stdacc001",
+    "name": "Premium Accessories Item Model-3",
+    "description": "High-quality accessory item from Standard-C brand.",
+    "price": 7999,
+    "images": [
+      "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=600",
+      "https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6?q=80&w=600"
+    ],
+    "category": "Accessories",
+    "brand": "Standard-C",
+    "countInStock": 30,
+    "discount": 10,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "rating": 4.3,
+    "numReviews": 0,
+    "createdAt": "2026-05-30T16:20:00.000Z",
+    "updatedAt": "2026-05-30T16:20:00.000Z"
+  },
+  {
+    "_id": "p_preacc002",
+    "name": "Premium Accessories Item Model-5",
+    "description": "High-quality accessory from Premium-B brand.",
+    "price": 5999,
+    "images": [
+      "https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6?q=80&w=600",
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=600"
+    ],
+    "category": "Accessories",
+    "brand": "Premium-B",
+    "countInStock": 25,
+    "discount": 12,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "rating": 4.2,
+    "numReviews": 0,
+    "createdAt": "2026-05-30T16:22:00.000Z",
+    "updatedAt": "2026-05-30T16:22:00.000Z"
+  },
+  {
+    "_id": "p_google001",
+    "name": "Google Pixel 8 Pro",
+    "description": "Latest flagship smartphone from Google.",
+    "price": 69999,
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97",
+      "https://images.unsplash.com/photo-1605236453806-6ff36851218e"
+    ],
+    "category": "Mobiles",
+    "brand": "Google",
+    "countInStock": 15,
+    "discount": 5,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "rating": 4.6,
+    "numReviews": 0,
+    "createdAt": "2026-05-30T16:25:00.000Z",
+    "updatedAt": "2026-05-30T16:25:00.000Z"
+  },
+  {
+    "_id": "p_preMen003",
+    "name": "Premium Men Item Model-8",
+    "description": "Premium men’s fashion item from Premium-B.",
+    "price": 4599,
+    "images": [
+      "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?q=80&w=600",
+      "https://images.unsplash.com/photo-1550246140-5119ae4790b8?q=80&w=600"
+    ],
+    "category": "Men",
+    "brand": "Premium-B",
+    "countInStock": 20,
+    "discount": 8,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "rating": 4.4,
+    "numReviews": 0,
+    "createdAt": "2026-05-30T16:28:00.000Z",
+    "updatedAt": "2026-05-30T16:28:00.000Z"
+  },
+  {
+    "_id": "p_giniKids004",
+    "name": "Kids' Printed Summer Floral Dress",
+    "description": "Bright summer floral dress for kids by Gini & Jony.",
+    "price": 2999,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?q=80&w=600"
+    ],
+    "category": "Kids",
+    "brand": "Gini & Jony",
+    "countInStock": 40,
+    "discount": 10,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "rating": 4.5,
+    "numReviews": 0,
+    "createdAt": "2026-05-30T16:30:00.000Z",
+    "updatedAt": "2026-05-30T16:30:00.000Z"
+  },
+  {
+    "_id": "p_stdgam005",
+    "name": "Premium Gaming Item Model-3",
+    "description": "Top-rated gaming accessory from Standard-C.",
+    "price": 2741,
+    "images": [
+      "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?q=80&w=600",
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=600"
+    ],
+    "category": "Gaming",
+    "brand": "Standard-C",
+    "countInStock": 30,
+    "discount": 7,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "rating": 4.3,
+    "numReviews": 0,
+    "createdAt": "2026-05-30T16:32:00.000Z",
+    "updatedAt": "2026-05-30T16:32:00.000Z"
+  },
+  {
+    "_id": "p_branda006",
+    "name": "Premium Gaming Item Model-4",
+    "description": "High-quality gaming product from Brand-A.",
+    "price": 3026,
+    "images": [
+      "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=600",
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=600"
+    ],
+    "category": "Gaming",
+    "brand": "Brand-A",
+    "countInStock": 23,
+    "discount": 5,
+    "deliveryTime": "In 2 days",
+    "reviews": [],
+    "rating": 4.5,
+    "numReviews": 0,
+    "createdAt": "2026-05-30T16:35:00.000Z",
+    "updatedAt": "2026-05-30T16:35:00.000Z"
+  },
+  {
+    "_id": "p_elgato007",
+    "name": "Elgato Stream Deck MK.2",
+    "description": "Customizable control deck for streamers by Elgato.",
+    "price": 10999,
+    "images": [
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef",
+      "https://images.unsplash.com/photo-1628277613967-6abca504d0ac"
+    ],
+    "category": "Electronics",
+    "brand": "Elgato",
+    "countInStock": 12,
+    "discount": 10,
+    "deliveryTime": "Tomorrow",
+    "reviews": [],
+    "rating": 4.6,
+    "numReviews": 0,
+    "createdAt": "2026-05-30T16:38:00.000Z",
+    "updatedAt": "2026-05-30T16:38:00.000Z"
+  }
+]
